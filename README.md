@@ -56,9 +56,9 @@ Some auxiliary files:
 ## Pre-trained Models
 - Pre-trained knowledge graph embedding models are from [LibKGE](https://github.com/uma-pi1/kge), and we adopt four popular embedding techniques in link prediction in our ablation study, namely, TransE, RESCAL, ComplEx, and RotatE for FB15K. And YAGO15K entities are mapped by the [SameAs links](https://github.com/nle-ml/mmkb/blob/master/YAGO15K/YAGO15K\_SameAsLink.txt).
 - Pre-trained language models are from [Transformers](https://huggingface.co/models), and we adopt bert-base/large-uncased, roberta-base/large, xlm-roberta-base/large, and [numBert](https://github.com/google-research/google-research/tree/master/numbert) in the ablation study.
-- We publish our fine-tuned language models with known attributes [here](https://to_be_updated_after_review), and the code is in ./helpers/forMLM.py.
+- We publish our fine-tuned language models with known attributes [here](https://github.com/xbc0112/NumericalPrediction/tree/main/pretrainedModels), and the code is in ./helpers/forMLM.py.
 
-All the models can be downloaded from [here](https://to_be_updated_after_review) to replace the ./pretrainedModels folder.
+All the models can be downloaded from [here](https://github.com/xbc0112/NumericalPrediction/tree/main/pretrainedModels) to replace the ./pretrainedModels folder.
 
 ## Notes
 The paper is under review now and this is a temporary link for the requirements to anonymity. It will be updated after the review process.
