@@ -1,1 +1,3 @@
-All the models can be downloaded from [here](https://pan.baidu.com/s/1RlflMTSAFCFihtjQ_48kQw) with code [i9tv] to replace this folder.
+All the models can be downloaded from [here]() to replace this folder.
+
+The models are too big that we cannot find an appropriate way to share them anonymously. We will update the download link after the review process.
