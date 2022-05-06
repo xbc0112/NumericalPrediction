@@ -1,0 +1,7 @@
+wasBornOnDate [s] was born on the date of [v].
+wasCreatedOnDate [s] was created on the date of [v].
+wasDestroyedOnDate [s] was destroyed on the date of [v].
+diedOnDate [s] died on the date of [v].
+happenedOnDate [s] happened on the date of [v].
+hasLatitude [s] has the latitude of [v].
+hasLongitude [s] has the longitude of [v].

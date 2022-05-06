@@ -1,0 +1,11 @@
+people.person.date_of_birth [s] was born on the date of [v].
+film.film.initial_release_date [s] was first released on the date of [v].
+organization.organization.date_founded [s] was founded on the date of [v].
+location.dated_location.date_founded [s] was founded on the date of [v].
+people.deceased_person.date_of_death [s] died on the date of [v].
+people.person.weight_kg [s] has the weight of [v] kilograms.
+people.person.height_meters [s] has the height of [v] meters.
+location.geocode.latitude [s] has the latitude of [v].
+location.geocode.longitude [s] has the longitude of [v].
+location.location.area [s] is in the area of [v].
+topic_server.population_number [s] has the population number of [v].
